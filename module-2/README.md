@@ -125,6 +125,7 @@ sudo touch /var/www/alternatives/alternate-index.html
   <p>This page is served on port 8081.</p>
 </body>
 </html>
+```
 
 
 ##  10. Configure Nginx to serve on port 8081
