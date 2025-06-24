@@ -110,6 +110,10 @@ sudo mkdir  /var/www/alternatives
 sudo touch /var/www/alternatives/alternate-index.html
 ``` 
 
+
+## Example HTML page
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
